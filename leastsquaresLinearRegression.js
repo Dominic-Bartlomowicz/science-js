@@ -1,4 +1,4 @@
-// A program that creates an enquation y = mx + b based on user inputs and the least squares method. 
+// A program that creates an equation y = mx + b based on user inputs and the least squares method. 
 // Required inputs: x data values, y data values. Outputs: intermediate calculations and an equation
 // of the form "y = mx + b", where m and b are solved constants.  
 
