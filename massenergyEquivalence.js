@@ -1,9 +1,9 @@
-// A simple Mass-Energy equivalence calculator, first derived by theoretical physicist Albert Einstein in the year 1905.  
+// A simple Mass-Energy equivalence calculator program, first derived by theoretical physicist Albert Einstein in the year 1905.  
 
 
 {
 
-while(true)
+while(true) 
 
 	{
 
@@ -12,7 +12,7 @@ while(true)
 		var prompt = require("prompt-sync")();
 		var mass = prompt("Please enter a mass value in kilograms: ");
 
-		while (isNaN(mass) || mass <= 0)
+		while (isNaN(mass) || mass < 0)
 
 			{
 				console.log("");
