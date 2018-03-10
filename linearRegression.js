@@ -1,4 +1,4 @@
-// A simple function for calculating the y value when given x and constants m and b in javascript
+// A simple program for calculating the y value when given x and constants m and b in javascript.
 
 
 {
